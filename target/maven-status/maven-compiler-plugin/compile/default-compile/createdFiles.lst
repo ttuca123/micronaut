@@ -1,0 +1,5 @@
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\br.com.unifor.controller.$GreetingsController$Definition
+br\com\unifor\controller\$GreetingsController$Definition$Exec.class
+br\com\unifor\Application.class
+br\com\unifor\controller\GreetingsController.class
+br\com\unifor\controller\$GreetingsController$Definition.class
